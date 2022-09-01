@@ -1,1 +1,1 @@
-move betty into tmp
+delete betty
