@@ -1,1 +1,1 @@
-Command to display long and file digits only 
+move betty into tmp
