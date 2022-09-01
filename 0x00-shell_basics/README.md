@@ -1,1 +1,1 @@
-list the content of the current directory
+Command for going back home
