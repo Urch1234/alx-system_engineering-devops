@@ -1,1 +1,1 @@
-Command for listing hidden files
+Command to display long and file digits only 
