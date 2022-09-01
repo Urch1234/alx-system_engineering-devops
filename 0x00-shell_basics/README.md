@@ -1,1 +1,1 @@
-Command for long listing
+Command for listing hidden files
