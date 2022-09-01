@@ -1,1 +1,1 @@
-Script printing absolute path name of the current directory
+list the content of the current directory
