@@ -1,1 +1,1 @@
-Command for going back home
+Command for long listing
