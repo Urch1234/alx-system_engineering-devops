@@ -1,1 +1,1 @@
-permission for all
+Permission to James Bond
