@@ -1,1 +1,1 @@
-John Doe permit
+oleh Permission
