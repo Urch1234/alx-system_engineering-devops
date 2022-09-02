@@ -1,1 +1,1 @@
-Switching current user
+Command to print effective user name
