@@ -1,1 +1,1 @@
-Command for new owner
+Command for empty script
