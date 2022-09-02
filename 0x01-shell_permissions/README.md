@@ -1,1 +1,1 @@
-all the user group 
+Command for new owner
