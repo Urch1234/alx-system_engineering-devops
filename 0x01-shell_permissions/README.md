@@ -1,1 +1,1 @@
-oleh Permission
+Directory permission
