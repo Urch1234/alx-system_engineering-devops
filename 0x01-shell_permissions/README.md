@@ -1,1 +1,1 @@
-Permission to James Bond
+John Doe permit
