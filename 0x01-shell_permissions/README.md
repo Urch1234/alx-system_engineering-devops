@@ -1,1 +1,1 @@
-Command for empty script
+Permission to touch
