@@ -1,1 +1,1 @@
-Command to print effective user name
+all the user 
