@@ -1,1 +1,1 @@
-Permission to touch
+Command for multiple permissions
