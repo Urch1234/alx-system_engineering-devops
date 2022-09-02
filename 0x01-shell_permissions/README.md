@@ -1,1 +1,1 @@
-Command for multiple permissions
+permission for all
