@@ -1,1 +1,1 @@
-command to print first 3 lines
+Command to create a file containing a text
