@@ -1,1 +1,1 @@
-command to reverse input
+Command which displays all users and their home directories
