@@ -1,1 +1,1 @@
-Command to remove javascript file
+Command to count num of directories
