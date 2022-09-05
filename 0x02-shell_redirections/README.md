@@ -1,1 +1,1 @@
-command to display the last 10 lines of a file
+Command to display the first 10 lines of a file
