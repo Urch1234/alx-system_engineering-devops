@@ -1,1 +1,1 @@
-Comand to display ls -la into a file
+Command that duplicates the last line of the a file
