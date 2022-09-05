@@ -1,1 +1,1 @@
-Command to take input of list of words and prints words that appear once
+command that displays lines containing the pattern "root" from a file
