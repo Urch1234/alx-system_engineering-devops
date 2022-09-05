@@ -1,1 +1,1 @@
-Command to display line containing pattern "root" and the next 3 lines
+Command all the lines in the file that do not contain the pattern "bin"
