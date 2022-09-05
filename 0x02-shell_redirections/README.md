@@ -1,1 +1,1 @@
-Command to print confused smiley
+Command to display content of /etc/passwd file
