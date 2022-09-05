@@ -1,1 +1,1 @@
-Command to print Hello world
+Command to print confused smiley
