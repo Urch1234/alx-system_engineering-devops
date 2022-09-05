@@ -1,1 +1,1 @@
-Command that removes all letters c and C from input
+command to reverse input
