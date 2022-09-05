@@ -1,1 +1,1 @@
-command that displays lines containing the pattern "root" from a file
+Command to display the number on lines that contain the pattern "bin"
