@@ -1,1 +1,1 @@
-Command which displays all users and their home directories
+Command to create a gif
