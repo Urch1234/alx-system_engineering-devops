@@ -1,1 +1,1 @@
-Command to display the number on lines that contain the pattern "bin"
+Command to display line containing pattern "root" and the next 3 lines
