@@ -1,1 +1,1 @@
-Command to display the first 10 lines of a file
+command to print first 3 lines
