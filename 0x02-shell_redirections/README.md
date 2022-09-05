@@ -1,1 +1,1 @@
-Command to create a file containing a text
+Comand to display ls -la into a file
