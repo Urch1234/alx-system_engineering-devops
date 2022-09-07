@@ -4,3 +4,4 @@ Command to count number of directories
 Script that list enviroment variables
 Script to Print all local variable and enviroment varaibles
 create new local variable
+create a new global variable
