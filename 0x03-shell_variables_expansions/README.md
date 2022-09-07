@@ -1,1 +1,1 @@
-Command to create alias ls="rm *" 
+Command that prints hello user
