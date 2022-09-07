@@ -6,3 +6,4 @@ Script to Print all local variable and enviroment varaibles
 create new local variable
 create a new global variable
 script to print additional varial followed by a new line
+script for power and division
