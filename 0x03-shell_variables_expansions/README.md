@@ -9,3 +9,4 @@ script to print additional varial followed by a new line
 script for power and division
 Breath to love script
 binary to decimal script
+print all possible combination of two letters
