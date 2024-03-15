@@ -1,5 +1,4 @@
 #!/usr/bin/env bash
-
 # Check if exactly one argument is provided
 if [ $# -eq 1 ]; then
   # Ping the IP address 5 times with quotes around $1
