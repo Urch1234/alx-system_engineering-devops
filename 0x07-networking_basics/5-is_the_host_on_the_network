@@ -1,9 +1,12 @@
-#!/usr/bin/env bash
+#!/bin/bash
 # Check if exactly one argument is provided
 if [ $# -eq 1 ]; then
-  # Ping the IP address 5 times with quotes around $1
-  ping -c 5 "$1"
+  # Assign the argument to a variable with quotes for handling spaces
+  ip_address="$1"
+
+  # Ping the IP address 5 times
+  ping -c 5 "$ip_address"
 else
-  # Display usage message
-  echo "Usage: ./ping_script.sh {IP_ADDRESS}"
+  # Display usage message with script name obtained from basename
+  echo "Usage: ./$(basename "$0") {IP_ADDRESS}"
 fi
