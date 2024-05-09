@@ -1,8 +1,29 @@
 #!/usr/bin/env bash
-# installs nginx and configures it on a remote server
+# Configures a new ubuntu machine by installing Nginx
+# where it should be listeninig to port 80 and serve
+# a page that would return a "Hello World"
 
-apt-get -y update
-apt-get -y install nginx
-ufw allow 'Nginx HTTP'
+echo -e "Updating and installing Nginx.\n"
+sudo apt-get -y update
+sudo apt-get -y install nginx
+
+echo -e "Setting up some minor stuffs.\n"
+
+# starting nginx services
+sudo service nginx start
+
+# Allow Nginx through the firewall
+sudo ufw allow 'Nginx HTTP'
+# Creating new index
 echo 'Hello World!' > /var/www/html/index.nginx-debian.html
-service nginx start
+# Give the user ownership to website files for easy aditing
+sudo chown -R "$USER":"$USER" /var/www/html
+sudo chmod -R 755 /var/www
+
+# Backup default index
+cp /var/www/html/index.nginx-debian.html /var/www/html/index.nginx-debian.html.bckp
+
+# Restarting service nginx restart
+sudo service nginx restart
+
+echo -e "\nCompleted."
