@@ -1,5 +1,3 @@
-able File  16 lines (15 sloc)  400 Bytes
-
 # Use Puppet to automate the task of creating a custom HTTP header response
 
 exec {'update':
